@@ -44,7 +44,7 @@ Here Is Live Version Of Bot  [U2GD_Bot](http://U2GD_Bot)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/heroku/U2GD_Bot_Source/tree/master)
 
-Originally Created by AryanVikash[https://github.com/aryanvikash/Google-Drive-Uploader]
+Originally Created by [AryanVikash](https://github.com/aryanvikash/Google-Drive-Uploader)
 
 ### Licence
   - GPLv3
