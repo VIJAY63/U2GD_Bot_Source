@@ -2,7 +2,7 @@
 
 # Upload to Google Drive Bot
 
-Here Is Live Version Of Bot  [U2GD_Bot](http://telegram.dog/U2GD_Bot)
+Here Is Live Version Of Bot  [U2GD_Bot](http://U2GD_Bot)
 
 ### How Can We Use It
   - First authorize Bot Using `/auth` command Generate a Key and send it To bot .
@@ -44,7 +44,7 @@ Here Is Live Version Of Bot  [U2GD_Bot](http://telegram.dog/U2GD_Bot)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-Originally Created by Aryan Vikash at https://github.com/aryanvikash/Google-Drive-Uploader
+Originally Created by AryanVikash[https://github.com/aryanvikash/Google-Drive-Uploader]
 
 ### Licence
   - GPLv3
