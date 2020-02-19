@@ -68,7 +68,7 @@ def a32_to_base64(a):
 
 
 def get_chunks(size):
-    chunks = {}
+    chunks = {128}
     p = pp = 0
     i = 1
 
