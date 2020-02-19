@@ -19,8 +19,8 @@ command.\n\n
 You Can Upload Any Internet
 Files On Your google
 Drive Account.\n\n
-This Bot is by @Bhadoo\n
-Bug Report @aryanvikash"""
+This Bot is by @Thalapathyvijayannanuyir\n
+Bug Report @Thalapathyvijayannanuyir"""
 
 DP_DOWNLOAD = "Dropbox Link !! Downloading Started ..."
 OL_DOWNLOAD = "Openload Link !! Downloading Started ... \nOpenload Links Are Extremely Slow"
@@ -44,5 +44,3 @@ OPENLOAD = True
 DROPBOX = True
 MEGA = True
 
-
-UPDATE = """Try @BhadooCloud"""
